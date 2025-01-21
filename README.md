@@ -62,5 +62,3 @@ Based on the analysis, the case study will conclude with:
 
 ## Authors
 This case study was conducted by S.P.V Karthik, Roll No: 160123733058, Section: CSE-1, CBIT College.
-
-# Surprise-housing-case-study
